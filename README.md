@@ -57,7 +57,8 @@ Reflect on the advantages and potential limitations of clustering in a reduced f
 ## Conclusion
 This analysis provides a robust framework for clustering cryptocurrencies using K-means and Principal Component Analysis (PCA). Through careful preprocessing, dimensionality reduction, and cluster evaluation, this project demonstrates how unsupervised learning can be used to segment cryptocurrencies into meaningful groups based on market dynamics. Key takeaways include:
 
-## K-means clustering: A versatile technique for partitioning datasets into distinct groups, useful for identifying patterns in complex, high-dimensional data.
+K-means clustering: A versatile technique for partitioning datasets into distinct groups, useful for identifying patterns in complex, high-dimensional data.
+
 Elbow Method: An effective technique for determining the optimal number of clusters by balancing model complexity with performance.
 Principal Component Analysis (PCA): A powerful tool for reducing the dimensionality of data, improving computational efficiency, and mitigating noise in the clustering process.
 Data Normalization: Essential for ensuring fair contribution from each feature in distance-based algorithms like K-means.
